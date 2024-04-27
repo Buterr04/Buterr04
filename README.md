@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a student from Beijing University of Posts and Telecommunications, now I'm trying to use Github to learn something about coding.
+Life will be better with code.
