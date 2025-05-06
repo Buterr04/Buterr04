@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a student from Beijing University of Posts and Telecommunications, now I'm trying to use Github to learn something about coding.
+Life will be better with code.
 <!--
 **Buterr04/Buterr04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Buterr04&theme=transparent&show_icons=true&hide_border=true" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Buterr04&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Buterr04&theme=github-compact&hide_border=true&area=true" />
+<br/>
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Buterr04&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
-</p>
 
-I'm a student from Beijing University of Posts and Telecommunications, now I'm trying to use Github to learn something about coding.
-Life will be better with code.
