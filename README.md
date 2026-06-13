@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student from Beijing University of Posts and Telecommunications, now I'm trying to use Github to learn something about coding.
+I'm a student graduated from Beijing University of Posts and Telecommunications as an undergraduate, now I'm trying to use Github to learn something about coding.
 Life will be better with code.
 <!--
 **Buterr04/Buterr04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
